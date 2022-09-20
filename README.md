@@ -1,2 +1,3 @@
-# upix.ca.github.io
-Upix Canada Site
+# Upix Canada Site web repo
+
+This repo coontains Upix Canada's HTML files.
