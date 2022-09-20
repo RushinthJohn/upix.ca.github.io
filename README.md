@@ -1,3 +1,3 @@
-# Upix Canada Site web repo
+# Upix Canada website repo
 
-This repo coontains Upix Canada's HTML files.
+This repo contains Upix Canada's HTML files.
